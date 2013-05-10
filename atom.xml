@@ -1,29 +1,41 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>                                                                                                           
-<meta http-equiv="Content-type" content="text/html;charset=UTF-8" />
-<link rel="alternate" type="application/rss+xml" title="RSS" href="http://freekrai.github.io//atom.xml" />
-<link rel="stylesheet" href="/stylesheets/base.css">
-<link rel="shortcut icon" href="/images/favicon.ico">
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
 <title>Roger Stringer</title>
+<subtitle></subtitle>
+<link rel="alternate" type="text/html" href="http://freekrai.github.io//" />
+<link rel="self" type="application/atom+xml" href="http://freekrai.github.io///atom.xml" />
+<id>http://freekrai.github.io///atom.xml</id>
+<updated>2013-05-10 19:59:06 +0000</updated>
+<rights>Copyright © , </rights>
 
-</head>
-<body>
-<div id="container">
-	<div id="header">
-		<a href="http://freekrai.github.io/" title="The home page for Roger Stringer.">Roger Stringer</a>
-	</div><!-- header -->
-<div id="content">
-<div class="article">
-       <h2> <a href="http://freekrai.github.io/2013-05-10/test-adsfasdfasfd.html">test adsfasdfasfd</a></h2>
-<p class="date">
-Posted on 05 10, 2013
-</p>
-<p><img src="media/ronin.jpg" alt="" /></p>
-<div class="sep">&mdash;&nbsp;&#9226;&nbsp;&mdash;</div><h2> <a href="http://freekrai.github.io/2013-05-10/Welcome-to-Paragraphs.html">Welcome to Paragraphs!</a></h2>
-<p class="date">
-Posted on 05 10, 2013
-</p>
+ 
+<p></p> <entry>
+   <title>test adsfasdfasfd</title>
+   <link href="http:/freekrai.github.io/2013-05-10/test-adsfasdfasfd.html"/>
+   <published>05 10, 2013</published>
+   <updated>05 10, 2013</updated>
+   <id>http:/freekrai.github.io/2013-05-10/test-adsfasdfasfd.html</id>
+   <author>
+     <name>test adsfasdfasfd</name>
+     <uri>http:/freekrai.github.io/2013-05-10/test-adsfasdfasfd.html/</uri>
+   </author>
+   <content type="html"><p>test adsfasdfasfd</p>
+
+<p><img src="media/ronin.jpg" alt="" /></p></content>
+ </entry>
+
+ <entry>
+   <title>Welcome to Paragraphs!</title>
+   <link href="http:/freekrai.github.io/2013-05-10/Welcome-to-Paragraphs.html"/>
+   <published>05 10, 2013</published>
+   <updated>05 10, 2013</updated>
+   <id>http:/freekrai.github.io/2013-05-10/Welcome-to-Paragraphs.html</id>
+   <author>
+     <name>Welcome to Paragraphs!</name>
+     <uri>http:/freekrai.github.io/2013-05-10/Welcome-to-Paragraphs.html/</uri>
+   </author>
+   <content type="html"><p>Welcome to Paragraphs!</p>
+
 <p>Thank you for choosing Paragraphs, the desktop blogging app with style!</p>
 
 <p>This is your first post, created to give you a good feel for how Paragraphs works, and what you can do with it.</p>
@@ -57,15 +69,12 @@ Posted on 05 10, 2013
 
 <p>Speaking of themes, Paragraphs supports development of third party themes, and ships with a few of our own. To see which themes are installed, press &ldquo;Command + ,&rdquo; to open the Preferences panel, and choose the second tab.</p>
 
-<p>There&rsquo;s a lot more to Paragraphs, so feel free to explore, or just start writing. When you are ready, choose &ldquo;Publish&rdquo; from the File menu and Paragraphs will export your site to a folder, ready to be uploaded to a web server.  I hope you enjoy using Paragraphs as much as I do, and thanks again.</p>
-<div class="sep">&mdash;&nbsp;&#9226;&nbsp;&mdash;</div>
-</div><!-- article -->
-</div><!-- content -->
-<div id="footer">
-<a href="/toc.html" title="A list of previous articles.">Archive</a>
-&middot;
-<a href="/About.html" title="Information about this site.">About</a>
-</div><!-- footer -->
-</div><!-- container -->
-</body>
-</html>
+<p>There&rsquo;s a lot more to Paragraphs, so feel free to explore, or just start writing. When you are ready, choose &ldquo;Publish&rdquo; from the File menu and Paragraphs will export your site to a folder, ready to be uploaded to a web server.  I hope you enjoy using Paragraphs as much as I do, and thanks again.</p></content>
+ </entry>
+
+
+    
+//    Import from atomTemplate.xml
+
+ 
+</feed>
