@@ -1,18 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Your Name</title>
-    <description>Web Developer from Somewhere</description>
+    <title>Roger Stringer</title>
+    <description>Full-Stack Web Developer and author</description>
     <link></link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
-        <title>You&#39;re up and running!</title>
-        <description>&lt;p&gt;Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below &lt;img class=&quot;emoji&quot; title=&quot;:point_down:&quot; alt=&quot;:point_down:&quot; src=&quot;https://assets.github.com/images/icons/emoji/unicode/1f447.png&quot; height=&quot;20&quot; width=&quot;20&quot; align=&quot;absmiddle&quot; /&gt;).&lt;/p&gt;
+        <title>Linked Post Test</title>
+        <description>&lt;p&gt;Does this thing work? Is this thing on?&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/config.png&quot; alt=&quot;_config.yml&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Trying out Jekyll….&lt;/p&gt;
 
-&lt;p&gt;The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the &lt;a href=&quot;https://github.com/barryclark/jekyll-now&quot;&gt;Jekyll Now repository&lt;/a&gt; on GitHub.&lt;/p&gt;
+&lt;p&gt;echo… echo…&lt;/p&gt;
+</description>
+        <pubDate>Sat, 01 Nov 2014 00:00:00 -0700</pubDate>
+        <link>/Linked-Post-Test/</link>
+        <guid isPermaLink="true">/Linked-Post-Test/</guid>
+      </item>
+    
+      <item>
+        <title>Is this thing on?</title>
+        <description>&lt;p&gt;Does this thing work? Is this thing on?&lt;/p&gt;
+
+&lt;p&gt;Trying out Jekyll….&lt;/p&gt;
+
+&lt;p&gt;echo… echo…&lt;/p&gt;
+</description>
+        <pubDate>Fri, 31 Oct 2014 00:00:00 -0700</pubDate>
+        <link>/Test-Post/</link>
+        <guid isPermaLink="true">/Test-Post/</guid>
+      </item>
+    
+      <item>
+        <title>Hello world</title>
+        <description>&lt;p&gt;Ignore this post.. Just testing from editor…&lt;/p&gt;
+
+&lt;p&gt;hi&lt;/p&gt;
 </description>
         <pubDate>Mon, 03 Mar 2014 00:00:00 -0800</pubDate>
         <link>/Hello-World/</link>
