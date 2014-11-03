@@ -18,8 +18,6 @@ tag: food
 
 ### Directions
 
-- Preheat the oven to 450 degrees F. Coat a baking sheet with cooking spray.
-
-- Slice the zucchini into 1/4-inch thick rounds. In a medium bowl, toss the zucchini with the oil. In a small bowl, combine the Parmesan, bread crumbs, salt, and a few turns of pepper. Dip each round into the Parmesan mixture, coating it evenly on both sides, pressing the coating on to stick, and place in a single layer on the prepared baking sheet.
-
-- Bake the zucchini rounds until browned and crisp, 25 to 30 minutes. Remove with spatula. Serve immediately.
+1. Preheat the oven to 450 degrees F. Coat a baking sheet with cooking spray.
+2. Slice the zucchini into 1/4-inch thick rounds. In a medium bowl, toss the zucchini with the oil. In a small bowl, combine the Parmesan, bread crumbs, salt, and a few turns of pepper. Dip each round into the Parmesan mixture, coating it evenly on both sides, pressing the coating on to stick, and place in a single layer on the prepared baking sheet.
+3. Bake the zucchini rounds until browned and crisp, 25 to 30 minutes. Remove with spatula. Serve immediately.
