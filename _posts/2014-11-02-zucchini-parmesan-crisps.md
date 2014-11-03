@@ -4,6 +4,8 @@ title: Zucchini Parmesan Crisps
 tag: food
 ---
 
+![](http://d.pr/i/1f96.png)
+
 ### Ingredients
 
 - Cooking spray
