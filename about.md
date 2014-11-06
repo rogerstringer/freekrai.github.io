@@ -12,4 +12,6 @@ A place to include any other types of information that you'd like to include abo
 
 ### Contact me
 
-[roger@freekrai.net](mailto:roger@freekrai.net)
+Email: [roger@freekrai.net](mailto:roger@freekrai.net)
+
+Twitter: [@freekrai](https://twitter.com/freekrai)

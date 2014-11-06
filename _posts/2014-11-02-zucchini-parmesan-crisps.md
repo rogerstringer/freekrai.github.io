@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Zucchini Parmesan Crisps
-tag: food
+tags:
+- food
 ---
 
 ![](http://d.pr/i/1f96.png)
