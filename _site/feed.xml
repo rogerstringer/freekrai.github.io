@@ -7,12 +7,56 @@
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>Running to the Press</title>
+        <description>&lt;p&gt;Louie Mantia:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Apple warns against “running to the press” saying that it “never helps,” but we all know that it does help. And developers will continue to do it because Apple’s suggested channel of communicating doesn’t work. &lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;And it’s even worse for the &lt;em&gt;vast&lt;/em&gt; majority of iOS and Mac developers who &lt;em&gt;don’t&lt;/em&gt; have any Apple contacts or developer-relations representatives. You don’t just get an Apple rep when you sign up — you just need to wait until, hopefully, one contacts you, then you hold onto that email address.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 17 Dec 2014 00:00:00 -0800</pubDate>
+        <link>/2014/12/17/running-press/</link>
+        <guid isPermaLink="true">/2014/12/17/running-press/</guid>
+      </item>
+    
+      <item>
+        <title>Zucchini Parmesan Crisps</title>
+        <description>&lt;p&gt;&lt;img src=&quot;http://d.pr/i/1f96.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Cooking spray&lt;/li&gt;
+  &lt;li&gt;2 medium zucchini (about 1 pound total)&lt;/li&gt;
+  &lt;li&gt;1 tablespoon olive oil&lt;/li&gt;
+  &lt;li&gt;1/4 cup freshly grated Parmesan (3/4-ounce)&lt;/li&gt;
+  &lt;li&gt;1/4 cup plain dry bread crumbs&lt;/li&gt;
+  &lt;li&gt;1/8 teaspoon salt&lt;/li&gt;
+  &lt;li&gt;Freshly ground black pepper&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;directions&quot;&gt;Directions&lt;/h3&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Preheat the oven to 450 degrees F. Coat a baking sheet with cooking spray.&lt;/li&gt;
+  &lt;li&gt;Slice the zucchini into 1/4-inch thick rounds. In a medium bowl, toss the zucchini with the oil. In a small bowl, combine the Parmesan, bread crumbs, salt, and a few turns of pepper. Dip each round into the Parmesan mixture, coating it evenly on both sides, pressing the coating on to stick, and place in a single layer on the prepared baking sheet.&lt;/li&gt;
+  &lt;li&gt;Bake the zucchini rounds until browned and crisp, 25 to 30 minutes. Remove with spatula. Serve immediately.&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+        <pubDate>Sun, 02 Nov 2014 00:00:00 -0700</pubDate>
+        <link>/zucchini-parmesan-crisps/</link>
+        <guid isPermaLink="true">/zucchini-parmesan-crisps/</guid>
+      </item>
+    
+      <item>
         <title>Linked Post Test</title>
         <description>&lt;p&gt;Does this thing work? Is this thing on?&lt;/p&gt;
 
 &lt;p&gt;Trying out Jekyll….&lt;/p&gt;
 
-&lt;p&gt;echo… echo…&lt;/p&gt;
+&lt;p&gt;echo… echo..&lt;/p&gt;
 </description>
         <pubDate>Sat, 01 Nov 2014 00:00:00 -0700</pubDate>
         <link>/Linked-Post-Test/</link>

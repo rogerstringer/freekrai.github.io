@@ -3,6 +3,22 @@
   
   
   <url>
+    <loc>/2014/12/17/running-press/</loc>
+    
+    <lastmod>2014-12-17T00:00:00-08:00</lastmod>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>/zucchini-parmesan-crisps/</loc>
+    
+    <lastmod>2014-11-02T00:00:00-07:00</lastmod>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
     <loc>/Linked-Post-Test/</loc>
     
     <lastmod>2014-11-01T00:00:00-07:00</lastmod>
@@ -29,28 +45,28 @@
   
   <url>
     <loc>/404.html</loc>
-    <lastmod>2014-11-01T09:07:32-07:00</lastmod>
+    <lastmod>2014-12-24T11:52:18-08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>/about/</loc>
-    <lastmod>2014-11-01T09:07:32-07:00</lastmod>
+    <lastmod>2014-12-24T11:52:18-08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>/</loc>
-    <lastmod>2014-11-01T09:07:32-07:00</lastmod>
+    <lastmod>2014-12-24T11:52:18-08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   
   <url>
     <loc>/</loc>
-    <lastmod>2014-11-01T09:07:32-07:00</lastmod>
+    <lastmod>2014-12-24T11:52:18-08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
