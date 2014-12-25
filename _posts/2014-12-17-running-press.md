@@ -1,5 +1,5 @@
 ---
-title: Running to the Press
+title: "Running: to the Press"
 author: Roger Stringer
 layout: post
 permalink: /2014/12/17/running-press/
