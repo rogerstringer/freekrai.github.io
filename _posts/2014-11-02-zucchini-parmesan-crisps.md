@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Zucchini Parmesan Crisps
-category: programming
+category: food
 tags: [food]
 ---
 
