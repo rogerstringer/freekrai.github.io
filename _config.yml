@@ -51,7 +51,8 @@ baseurl: ""
 
 markdown: kramdown
 highlighter: pygments
-permalink: pretty
+permalink: /post/:title
+relative_permalinks: true
 
 # The release of Jekyll Now that you're using
 version: v1.0.0
