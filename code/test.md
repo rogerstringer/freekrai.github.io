@@ -2,7 +2,7 @@
 title: "Running: to the Press 2"
 author: Roger Stringer
 layout: post
-permalink: /2014/12/17/running-press/
+permalink: /2014/12/17/running-press-2/
 link:
   - http://louie.land/blog/runningtothepress.html
 rw_post_views_count:
