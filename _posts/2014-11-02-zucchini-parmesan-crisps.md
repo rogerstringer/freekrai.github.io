@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Zucchini Parmesan Crisps
-tags:
-- food
+category: programming
+tags: [django, food]
 ---
 
 ![](http://d.pr/i/1f96.png)
