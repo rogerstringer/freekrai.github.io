@@ -7,7 +7,7 @@
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
-        <title>Running to the Press</title>
+        <title>Running: to the Press</title>
         <description>&lt;p&gt;Louie Mantia:&lt;/p&gt;
 
 &lt;blockquote&gt;
@@ -46,8 +46,8 @@
 &lt;/ol&gt;
 </description>
         <pubDate>Sun, 02 Nov 2014 00:00:00 -0700</pubDate>
-        <link>/zucchini-parmesan-crisps/</link>
-        <guid isPermaLink="true">/zucchini-parmesan-crisps/</guid>
+        <link>/food/2014/11/02/zucchini-parmesan-crisps/</link>
+        <guid isPermaLink="true">/food/2014/11/02/zucchini-parmesan-crisps/</guid>
       </item>
     
       <item>
@@ -59,8 +59,8 @@
 &lt;p&gt;echo… echo..&lt;/p&gt;
 </description>
         <pubDate>Sat, 01 Nov 2014 00:00:00 -0700</pubDate>
-        <link>/Linked-Post-Test/</link>
-        <guid isPermaLink="true">/Linked-Post-Test/</guid>
+        <link>/2014/11/01/Linked-Post-Test/</link>
+        <guid isPermaLink="true">/2014/11/01/Linked-Post-Test/</guid>
       </item>
     
       <item>
@@ -72,8 +72,8 @@
 &lt;p&gt;echo… echo…&lt;/p&gt;
 </description>
         <pubDate>Fri, 31 Oct 2014 00:00:00 -0700</pubDate>
-        <link>/Test-Post/</link>
-        <guid isPermaLink="true">/Test-Post/</guid>
+        <link>/2014/10/31/Test-Post/</link>
+        <guid isPermaLink="true">/2014/10/31/Test-Post/</guid>
       </item>
     
       <item>
@@ -83,8 +83,8 @@
 &lt;p&gt;hi&lt;/p&gt;
 </description>
         <pubDate>Mon, 03 Mar 2014 00:00:00 -0800</pubDate>
-        <link>/Hello-World/</link>
-        <guid isPermaLink="true">/Hello-World/</guid>
+        <link>/2014/03/03/Hello-World/</link>
+        <guid isPermaLink="true">/2014/03/03/Hello-World/</guid>
       </item>
     
   </channel>

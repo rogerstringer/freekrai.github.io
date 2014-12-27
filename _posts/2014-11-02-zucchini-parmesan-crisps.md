@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Zucchini Parmesan Crisps
-category: food
+categories: 
+   - food
 tags:
    - food
 ---

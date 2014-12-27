@@ -6,46 +6,40 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>/zucchini-parmesan-crisps/</loc>
+    <loc>/food/2014/11/02/zucchini-parmesan-crisps/</loc>
     <lastmod>2014-11-02T00:00:00-07:00</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>/Linked-Post-Test/</loc>
+    <loc>/2014/11/01/Linked-Post-Test/</loc>
     <lastmod>2014-11-01T00:00:00-07:00</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>/Test-Post/</loc>
+    <loc>/2014/10/31/Test-Post/</loc>
     <lastmod>2014-10-31T00:00:00-07:00</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>/Hello-World/</loc>
+    <loc>/2014/03/03/Hello-World/</loc>
     <lastmod>2014-03-03T00:00:00-08:00</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>/404.html</loc>
-    <lastmod>2014-12-24T20:20:58-08:00</lastmod>
+    <loc>/404/</loc>
+    <lastmod>2014-12-27T12:16:40-08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>/about/</loc>
-    <lastmod>2014-12-24T20:20:58-08:00</lastmod>
+    <lastmod>2014-12-27T12:16:40-08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>/</loc>
-    <lastmod>2014-12-24T20:20:58-08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>/</loc>
-    <lastmod>2014-12-24T20:20:58-08:00</lastmod>
+    <lastmod>2014-12-27T12:16:40-08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
