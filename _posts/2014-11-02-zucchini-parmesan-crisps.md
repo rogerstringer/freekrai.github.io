@@ -2,7 +2,8 @@
 layout: post
 title: Zucchini Parmesan Crisps
 category: food
-tags: [food]
+tags:
+   - food
 ---
 
 ![](http://d.pr/i/1f96.png)
